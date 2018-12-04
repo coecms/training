@@ -13,6 +13,12 @@
     - find
     - module load
     - module unload
+    - understand symbolic links
+- intermediate
+    - make symbolic links
+    - rsync
+    - cp -r
+
 
 ### Resource management
 - basic
