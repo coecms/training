@@ -1,0 +1,74 @@
+ ## Generic
+ To be known by all:
+ - bash
+    - File and folder navigation: `cd`, `rm`, `mv`, `mkdir`, `ln`, `rsync`
+    - Finding stuff: `diff`, `find`, `grep`
+ - git
+    - clone/init
+    - add/commit
+    - branching
+    - merging (resolve conflicts)
+    - pull/push
+    - pull requests (optional)
+ - Python
+    - basics (v3, not v2)
+ - File formats
+    - How to open them (local and openDAP) and read info from them. And main differences between formats:
+        - binary is not self-describing
+        - grib needs a separate file that describes the data
+        - netcdf is self-describing, based on hdf but with some additional conventions
+    - netcdf
+    - binary (both plain and fortran binary)
+    - grib
+    - hdf ?
+    - shapefiles and other GIS ? Probably optional.
+ - ncview
+    - make sure they have played with all the buttons :)
+ - nco
+    - ncks
+        - add attributes
+        - extract variables or remove variables
+        - subset along dimensions
+    - ncecat/ncrcat: difference between the "e" and the "r"
+    - ncdiff
+ - cdo
+    - I never use it so I don't know its functions but I'm sure there are a tonne that would be useful to know, I only know `cdo diffn`
+ - text editor
+    - They need to make sure they know their favourite editor. Or do we want to introduce them to IDE? 
+
+## Running model
+ - NCI
+    - ssh
+        - `-Y`
+        - `.ssh/config`
+        - ssh keys
+    - PBS
+        - how SU are counted
+        - useful `qsub` options (not to forget `-W umask`)
+        - `nqstat`, `qcat`, `qdel` (`qstat -f` ?)
+    - Filesystem:
+        - differences bw `home`, `short`, `gdata`, `mdss`
+    - Monitoring usage:
+        - `nci_account`
+        - `ncimonitor`
+        - `X_files_report`
+    - Managing usage:
+        - `ncdu`, `mdssdiff`, `nccompress`, `find`
+ - Fortran
+    - mpi: basic understanding of cpus and scaling. Not developing with mpi
+    - openmp (optional)
+    - compilation: useful options, linking (local and to libraries)
+    - makefile: basic understanding to be able to read most parts of a Makefile
+    - namelist: understand the format
+ - Model specific
+    - configuration system
+    - understand how to navigate to and read the model log(s) to find errors
+
+## Data Analysis
+ - Python
+    - basics (v3.x not v2)
+    - xarray
+    - matplotlib
+    - different packages depending on interest (stats package, specific plotting package)
+    - GIS in Python?
+ - VDI    
