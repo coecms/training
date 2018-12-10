@@ -19,12 +19,14 @@ Based on Scott's and Aidan's
 
 ## Structure
 
-* Generic
+* Generic tools
   * sshfs
-  * NetCDF file operations
   * VDI
   * iPython Notebook
   * Nectar (advanced)
+
+* Generic skills
+  * NetCDF file operations
 
 * Model development
   * Development with Met Office
