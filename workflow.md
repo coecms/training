@@ -13,7 +13,7 @@ For NCI Users
   * [Storage management at NCI](Storage_management_at_NCI.md)
   * [Shell](Shell.md)
   * [SSH](SSH.md)
-  * [Version control](Version_control.md)
+  * [Git Version control](Git.md)
   * [Cloud](Cloud.md)
 </details>
 
