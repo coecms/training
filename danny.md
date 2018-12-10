@@ -1,0 +1,42 @@
+## Activities
+
+Based on Scott's and Aidan's
+
+## Skills
+
+* sshfs
+* NetCDF file operations
+* VDI
+* iPython Notebook
+* Development with Met Office
+* ModelEvaluation.org (after its release)
+* Nectar
+* svn / git
+  * patch
+  * merge
+  * changeset
+* CABLE
+
+## Structure
+
+* Generic
+  * sshfs
+  * NetCDF file operations
+  * VDI
+  * iPython Notebook
+  * Nectar (advanced)
+
+* Model development
+  * Development with Met Office
+  * ModelEvaluation.org (after its release)
+  
+* Version control
+  * Advanced
+    * patch
+    * merge
+    * changeset
+    * pull requests
+
+* CABLE
+  * Running
+  * Developing
