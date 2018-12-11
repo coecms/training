@@ -14,4 +14,5 @@ For this, you need to use SSH
 
 ### Skill set #3: Access your remote files easily
  * sshfs
+ * Copying files: scp, rsync, bbcp, sftp
  * (Note to team: What else for Windows machines?)
