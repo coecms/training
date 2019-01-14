@@ -18,14 +18,14 @@ For NCI Users
 </details>
 
 (Note to the team: I think I'd like to delete this section below. Planning for CPU and storage should be in running the model. Planning for storage should be under data analysis. Ongoing management is in the Generic knowledge above. I haven't checked the other sections after that.)
-<details><summary>Planning resource needs</summary>
+<details><summary>Planning resource needs - Aidan</summary>
 
   * CPU
   * Storage
   * Ongoing management
 </details>
 
-<details><summary>Finding data to run the model on (or to analyse)</summary>
+<details><summary>Finding data to run the model on (or to analyse) - Paola</summary>
 
   * Clef
   * NCI data catalogue
@@ -41,7 +41,7 @@ For NCI Users
   * Postprocessing
 </details>
 
-<details><summary>Analysing model results (or any data)</summary>
+<details><summary>Analysing model results (or any data) - Scott</summary>
 
   * VDI
   * The job queue
@@ -49,7 +49,7 @@ For NCI Users
   * Plotting
 </details>
 
-<details><summary>Code development and management</summary>
+<details><summary>Code development and management - Danny</summary>
 
   * Fortran basics
   * Python basics
@@ -60,7 +60,7 @@ For NCI Users
   * Publishing
 </details>
 
-<details><summary>Publishing data</summary>
+<details><summary>Publishing data - Claire</summary>
 
   * ???
 </details>
