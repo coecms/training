@@ -62,12 +62,14 @@ For NCI Users
 
 <details><summary>Publishing data - Claire</summary>
 
-  * [Open Data Requirements](Open_data.md)
+  * [Open Data Requirements](Open_Access.md)
   * [Data Management plan](DMP.md)
   * [Data formatting](Netcdf_formatting.md)
-  * [Publishing data for a paper](Data_for_paper.md)
+  * [Publishing data for a paper](Data_for_paper.md) !!! I would make these two one section, there's no practical difference between publishing for a paper or publishing a new dataset
   * [Publishing a new dataset](New_dataset.md)
 </details>
+  !!! I would make the last two sections just one, there's no practical difference between publishing for a paper or publishing a new dataset
+  Or alternatively you could put Publishing a new dataset first and then have a "Additional consideration if publishoing for a jpurnal" that could covert hings like "embargo", "data access for reviewer", "publishing a data paper"
 
 For Non-NCI Users
 -----------------
