@@ -9,5 +9,5 @@ Python Programming
   * Tools
 
 ### Skill Set #2: Advanced Usage
-* [Advanced Fortran Programming](http://nci.org.au/user-support/training/training-exercises/fortran-programming-advanced/)
+* [Advanced Python Programming](http://nci.org.au/user-support/training/training-exercises/fortran-programming-advanced/)
 * Optimisation
