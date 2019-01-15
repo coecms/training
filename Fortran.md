@@ -1,5 +1,5 @@
-Fortran Programming
--------------------
+Fortran Skills
+--------------
 
 ### Skill Set #1: Beginner Usage
 * [An Introduction to Fortran](http://nci.org.au/user-support/training/training-exercises/fortran-programming-basics/)
@@ -9,7 +9,7 @@ Fortran Programming
 * Optimisation
 * Parallelisation
 
-### Skill Set #3: Debugging Fortran
+### Skill Set #3: Debugging
 * Debugging
   * Skills and Tools
     * [Bug symptoms and terminology](https://www.youtube.com/watch?v=8qw0hXNNRFk)
