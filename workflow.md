@@ -53,7 +53,7 @@ For NCI Users
 
   * [Fortran development](Fortran.md)
   * [Python development](Python.md)
-  * [Debugging](Debugging.md)
+  * Debugging (See specific language for details)
   * Version control
     * [Svn](Svn.md)
     * [Git](Git.md)
