@@ -51,8 +51,8 @@ For NCI Users
 
 <details><summary>Code development and management - Danny</summary>
 
-  * [Fortran development](Fortran.md)
-  * [Python development](Python.md)
+  * Fortran development
+  * Python development
   * Debugging
   * Version control
     * Svn
