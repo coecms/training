@@ -55,9 +55,9 @@ For NCI Users
   * [Python development](Python.md)
   * Debugging (See specific language for details)
   * Version control
-    * [Svn](Svn.md)
+    * [SVN](SVN.md)
     * [Git](Git.md)
-  * Publishing
+  * [Code publishing](Code-publishing.md)
 </details>
 
 <details><summary>Publishing data - Claire</summary>
