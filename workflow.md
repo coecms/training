@@ -62,11 +62,10 @@ For NCI Users
 
 <details><summary>Publishing data - Claire</summary>
 
-  * [Open Data Requirements](Open_data.md)
-  * [Data Management plan](DMP.md)
-  * [Data formatting](Netcdf_formatting.md)
-  * [Publishing data for a paper](Data_for_paper.md)
-  * [Publishing a new dataset](New_dataset.md)
+  * [Open Access Requirements](Open_Access.md)
+  * [Publication process](Publication_process.md)
+  * [Complete a Data Management plan](DMP.md)
+  * [Format your data](Data_formatting.md)
 </details>
 
 For Non-NCI Users
