@@ -39,7 +39,7 @@ For NCI Users
     * Preparation
         * Planning the Resource needs
         * Configuring the model
-            * UM
+            * [UM](Configuring_UM.md)
             * MOM
             * ACCESS
     * Running the model
