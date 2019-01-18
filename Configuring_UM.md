@@ -8,28 +8,28 @@ For versions up to 8.5:
 
 ### Skillset 1 (novice):
 
-    - Experiment Browser
-        - Difference Experiment/Job
-        - Copy Jobs
-        - Force Close
-    - Job configuration
-        - Changing user-id/project
-        - Creating Compile and Run jobs
+  * Experiment Browser
+    * Difference Experiment/Job
+    * Copy Jobs
+    * Force Close
+  * Job configuration
+    * Changing user-id/project
+    * Creating Compile and Run jobs
 
 ### Skillset 2 (advanced)
 
-    - Understanding Hand-Edits
-    - Selecting source code
-    - Models
-        - Activating/selecting Schemes
-    - Inputs
-        - Selecting ancillary files
-    - STASH
-        - Understanding Profiles
-        - Switching on/off Outputs
+  * Understanding Hand-Edits
+  * Selecting source code
+  * Models
+    * Activating/selecting Schemes
+  * Inputs
+    * Selecting ancillary files
+  * STASH
+    * Understanding Profiles
+    * Switching on/off Outputs
 
 ### Skillset 3 (pro)
 
-    - Creating new ancillary files
-    - Debugging Model Crashes
-    - Creating new STASH fields
+  * Creating new ancillary files
+  * Debugging Model Crashes
+  * Creating new STASH fields
