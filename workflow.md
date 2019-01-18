@@ -36,19 +36,20 @@ For NCI Users
 <details><summary>Running a model - Holger</summary>
 (Note: Claire said before that this should also contain Planning for CPU and storage needs)
 
-    * Preparation
-        * Planning the Resource needs
-        * Configuring the model
-            * [UM](Configuring_UM.md)
-            * MOM
-            * ACCESS
-    * Running the model
-        * The Job queue
-        * UM
-        * MOM
-        * ACCESS
-    * Postprocessing
-    (Shouldn't this be part of Analysing?)
+  * Preparation
+    * Planning the Resource needs
+    * Configuring the model
+      * [UM](Configuring_UM.md)
+      * MOM
+      * ACCESS
+  * Running the model
+    * The Job queue
+    * UM
+    * MOM
+    * ACCESS
+  * Postprocessing
+  (Shouldn't this be part of Analysing?)
+
 </details>
 
 <details><summary>Analysing model results (or any data) - Scott</summary>
