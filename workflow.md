@@ -40,7 +40,7 @@ For NCI Users
     * Planning the Resource needs
     * Configuring the model
       * [UM](Configuring_UM.md)
-      * MOM
+      * [payu / MOM](payu.md)
       * ACCESS
   * Running the model
     * The Job queue
