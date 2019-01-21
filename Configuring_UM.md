@@ -28,8 +28,24 @@ For versions up to 8.5:
     * Understanding Profiles
     * Switching on/off Outputs
 
-### Skillset 3 (pro)
+### Skillset 3 (expert)
 
   * Creating new ancillary files
   * Debugging Model Crashes
   * Creating new STASH fields
+
+## Rose/Cylc
+
+For versions 8.0 and up
+
+### Skillset 1 (novice):
+
+  * Rosie experiment Browser
+    * Clone a job
+  * Rose job Browser
+    * Run Length
+    *
+
+### Skillset 2 (advanced):
+
+### Skillset 3 (expert)
