@@ -16,5 +16,5 @@
 
 ### Monitor resource use
 
- * Check resource use in line with request (`nci_account`, `ncimonitor`, `short_files_report`, `gdata1_files_report`, `gdata3_files_report`, `du`, `ncdu`, `find`)
+ * Check resource use in line with request (`nci_account`, `ncimonitor`, `short_files_report`, `gdata1_files_report`, `gdata3_files_report`, `du`, `ncdu`, `find`, `lquota`)
  * Where necessary compress/delete/transfer/archive data (`nccompress`,`find`, `rm`, `rsync`, `tar`, `mdss`, `mdssdiff`)
