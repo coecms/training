@@ -19,10 +19,7 @@ For NCI Users
 
 (Note to the team: I think I'd like to delete this section below. Planning for CPU and storage should be in running the model. Planning for storage should be under data analysis. Ongoing management is in the Generic knowledge above. I haven't checked the other sections after that.)
 <details><summary>Planning resource needs - Aidan</summary>
-
-  * CPU
-  * Storage
-  * Ongoing management
+  * [Compute and Storage Resources](Resources.md)
 </details>
 
 <details><summary>Finding data to run the model on (or to analyse) - Paola</summary>
