@@ -18,19 +18,19 @@ For NCI Users
 </details>
 
 (Note to the team: I think I'd like to delete this section below. Planning for CPU and storage should be in running the model. Planning for storage should be under data analysis. Ongoing management is in the Generic knowledge above. I haven't checked the other sections after that.)
-<details><summary>Planning resource needs - Aidan</summary>
+<details><summary>Planning resource needs - Aidan rev. Paola</summary>
  
   * [Compute and Storage Resources](Resources.md)
 </details>
 
-<details><summary>Finding data to run the model on (or to analyse) - Paola</summary>
+<details><summary>Finding data to run the model on (or to analyse) - Paola rev. Holger</summary>
 
   * [Data resources at NCI](NCI_data.md)
   * [Other data resources](remote_data.md)
   * [Accessing data remotely with THREDDS and OPenDAP](opendap.md)
 </details>
 
-<details><summary>Running a model - Holger</summary>
+<details><summary>Running a model - Holger rev. Scott</summary>
 (Note: Claire said before that this should also contain Planning for CPU and storage needs)
 
   * Preparation
@@ -49,7 +49,7 @@ For NCI Users
 
 </details>
 
-<details><summary>Analysing model results (or any data) - Scott</summary>
+<details><summary>Analysing model results (or any data) - Scott rev. Danny</summary>
 
   * VDI
   * The job queue
@@ -57,7 +57,7 @@ For NCI Users
   * Plotting
 </details>
 
-<details><summary>Code development and management - Danny</summary>
+<details><summary>Code development and management - Danny rev. Claire</summary>
 
   * [Fortran development](Fortran.md)
   * [Python development](Python.md)
@@ -68,7 +68,7 @@ For NCI Users
   * [Code publishing](Code-publishing.md)
 </details>
 
-<details><summary>Publishing data - Claire</summary>
+<details><summary>Publishing data - Claire rev. Aidan</summary>
 
   * [Open Access Requirements](Open_Access.md)
   * [Publication process](Publication_process.md)
