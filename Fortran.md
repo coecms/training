@@ -5,6 +5,7 @@ Fortran Development
 * [An Introduction to Fortran](http://nci.org.au/user-support/training/training-exercises/fortran-programming-basics/)
   * Basic program format
   * Compiling and running a program
+  * Comments
   * Declaring variables and arrays
   * Arithmetic operations
   * DO and DO WHILE loops
@@ -20,7 +21,7 @@ Fortran Development
     * Operations on entire arrays
     * Array sections
     * Querying information about arrays (size, etc)
-  * WHERE and mask operations
+    * WHERE and mask operations
   * CASE statements
   * INTENT statements
   * OPTIONAL arguments
