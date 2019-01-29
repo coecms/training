@@ -27,10 +27,9 @@ For NCI Users
 
 <details><summary>Finding data to run the model on (or to analyse) - Paola</summary>
 
-  * Clef
-  * NCI data catalogue
-  * Geonetwork
-  * THREDD link
+  * Data resources at NCI [NCI_data.md]
+  * Other data resources  [remote_data.md]
+  * Accessing data remotely with THREDDS and OPenDAP [opendap.md]
 </details>
 
 <details><summary>Running a model - Holger</summary>
@@ -71,11 +70,8 @@ For NCI Users
 For Non-NCI Users
 -----------------
 <details><summary>Finding data to run the model on (or to analyse)</summary>
-
-  * Clef
-  * NCI data catalogue
-  * Geonetwork
-  * THREDD link
+  * Other data resources  [remote_data.md]
+  * Accessing data remotely with THREDDS and OPenDAP [opendap.md]
 </details>
 
 <details><summary>Running a model locally</summary>
