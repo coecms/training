@@ -51,13 +51,13 @@ For NCI Users
 
 <details><summary>Code development and management - Danny</summary>
 
-  * Fortran development
-  * Python development
-  * Debugging
+  * [Fortran development](Fortran.md)
+  * [Python development](Python.md)
+  * Debugging (See specific language for details)
   * Version control
-    * Svn
-    * Git
-  * Publishing
+    * [SVN](SVN.md)
+    * [Git](Git.md)
+  * [Code publishing](Code-publishing.md)
 </details>
 
 <details><summary>Publishing data - Claire</summary>
