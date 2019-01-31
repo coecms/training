@@ -7,38 +7,49 @@ Below we describe 2 standard workflows that researchers might follow:
 
 For NCI Users
 -------------
+<details><summary>Generic knowledge</summary>
 
-<details><summary>NCI Induction</summary>
-  
-  * Joining a project
-  * Command line basics - bash
-  * File systems
-  
-</details>
-<details><summary>Planning resource needs</summary>
-
-  * CPU
-  * Storage
-  * Ongoing management
+  * [Introduction to NCI](Introduction_to_NCI.md)
+  * [Storage management at NCI](Storage_management_at_NCI.md)
+  * [Shell](Shell.md)
+  * [SSH](SSH.md)
+  * [Git Version control](Git.md)
+  * [Cloud](Cloud.md)
 </details>
 
-<details><summary>Finding data to run the model on (or to analyse)</summary>
-
-  * Clef
-  * NCI data catalogue
-  * Geonetwork
-  * THREDD link
+(Note to the team: I think I'd like to delete this section below. Planning for CPU and storage should be in running the model. Planning for storage should be under data analysis. Ongoing management is in the Generic knowledge above. I haven't checked the other sections after that.)
+<details><summary>Planning resource needs - Aidan rev. Paola</summary>
+ 
+  * [Compute and Storage Resources](Resources.md)
 </details>
 
-<details><summary>Running a model</summary>
+<details><summary>Finding data to run the model on (or to analyse) - Paola rev. Holger</summary>
 
-  * Configuring and running the model
-    * MOM - Payu
-    * The job queue
+  * [Data resources at NCI](NCI_data.md)
+  * [Other data resources](remote_data.md)
+  * [Accessing data remotely with THREDDS and OPenDAP](opendap.md)
+</details>
+
+<details><summary>Running a model - Holger rev. Scott</summary>
+(Note: Claire said before that this should also contain Planning for CPU and storage needs)
+
+  * Preparation
+    * Planning the Resource needs
+    * Configuring the model
+      * [UM](Configuring_UM.md)
+      * [payu / MOM](payu.md)
+      * ACCESS
+  * Running the model
+    * The Job queue
+    * UM
+    * MOM
+    * ACCESS
   * Postprocessing
+  (Shouldn't this be part of Analysing?)
+
 </details>
 
-<details><summary>Analysing model results (or any data)</summary>
+<details><summary>Analysing model results (or any data) - Scott rev. Danny</summary>
 
   * VDI
   * The job queue
@@ -46,30 +57,30 @@ For NCI Users
   * Plotting
 </details>
 
-<details><summary>Code development and management</summary>
+<details><summary>Code development and management - Danny rev. Claire</summary>
 
-  * Fortran basics
-  * Python basics
-  * Debugging
+  * [Fortran development](Fortran.md)
+  * [Python development](Python.md)
+  * Debugging (See specific language for details)
   * Version control
-    * Svn
-    * Git
-  * Publishing
+    * [SVN](SVN.md)
+    * [Git](Git.md)
+  * [Code publishing](Code-publishing.md)
 </details>
 
-<details><summary>Publishing data</summary>
+<details><summary>Publishing data - Claire rev. Aidan</summary>
 
-  * ???
+  * [Open Access Requirements](Open_Access.md)
+  * [Publication process](Publication_process.md)
+  * [Complete a Data Management plan](DMP.md)
+  * [Format your data](Data_formatting.md)
 </details>
 
 For Non-NCI Users
 -----------------
 <details><summary>Finding data to run the model on (or to analyse)</summary>
-
-  * Clef
-  * NCI data catalogue
-  * Geonetwork
-  * THREDD link
+  * [Other data resources](remote_data.md)
+  * [Accessing data remotely with THREDDS and OPenDAP](opendap.md)
 </details>
 
 <details><summary>Running a model locally</summary>
