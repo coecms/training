@@ -1,20 +1,45 @@
-
+Before you go ahead:
+my overall feeling is that like for all our documents the granularity is a bit unclear.
+For example in Project there's some really minor steps while the first point of Monitor include a lot of commands.
+I've outlined below a few suggestions also indicating what I think are prerequisites #pq or there might be an overlap -> 
+It's just an example to explain what I think might be a more even granularity rather then a comment on content. 
 
 ### Project
 
- * Determing appropriate CLEX project code to join 
- * Determine project coordinator CI (or delegate), contact by email
- * Request to join a project through mancini
+ * Determining appropriate CLEX project code,
+ * Contact project coordinator (CI or delegate)
+ * Request to join a project through mancini  #pq
+ * Determining CI of project, #pq? (I'm thinking either via mancini, so potentially redundant or via wiki since mancini might not have enough "scientific" info)
 
 ### Resource request
 
- * Determing resources required, e.g. running model, analysing data
+ * Determining resources required, e.g. running model, analysing data
     - Compute resources (KSU)
     - Storage resources (GB): short term (`/short`), medium term (`/gdata`) and archive (`mdss`)
- * Determine project allocation (`nci_account`)
- * Contact project coordinator with resource request
+ * Determining project allocation (`nci_account`) #pq
+ * Contact project coordinator with resource request # (isn't a bit redudant? they should have started a dialogue already)
 
 ### Monitor resource use
 
- * Check resource use in line with request (`nci_account`, `ncimonitor`, `short_files_report`, `gdata1_files_report`, `gdata3_files_report`, `du`, `ncdu`, `find`, `lquota`)
- * Where necessary compress/delete/transfer/archive data (`nccompress`,`find`, `rm`, `rsync`, `tar`, `mdss`, `mdssdiff`)
+ * Check resource use NCI tools:
+           ** nci_account, 
+           ** <fsystem>_files_report
+           ** lquota
+ * Extra tools for Clex projects:
+           ** nci_monitor
+ * Useful bash commands ( `du`, `ncdu`, `find`) -> bash basics?
+
+### Managing storage
+ * NCI filesystems and their correct use #pq?
+ * managing file ownership and permissions:
+    * chmod, chgrp -> bash basics
+    * acls
+ *  compress: 
+    ** nccompress
+    ** cdo and nco -> ??
+    ** gzip, zip, bzip etc. -> bash basics?
+ *  delete ? maybe we can skip this? (`find`, `rm`) -> bash_basics
+ *  transfer:
+    ** across filesystems -> bash basics? (I'm thinking of difference between cp and mv and what happens to permisisons etc.)
+    ** from/to remote server (rsync, scp, sftp) -> NCI user guide 
+ *  archive data ( `tar`, `mdss`, `mdssdiff`) -> NCI userguide (for mdss)
