@@ -9,15 +9,14 @@ For NCI Users
 -------------
 <details><summary>Generic knowledge</summary>
 
-  * [Introduction to NCI](Introduction_to_NCI.md)
-  * [Storage management at NCI](Storage_management_at_NCI.md)
   * [Shell](Shell.md)
   * [SSH](SSH.md)
+  * [Introduction to NCI](Introduction_to_NCI.md)
+  * [Storage management at NCI](Storage_management_at_NCI.md)
   * [Git Version control](Git.md)
   * [Cloud](Cloud.md)
 </details>
 
-(Note to the team: I think I'd like to delete this section below. Planning for CPU and storage should be in running the model. Planning for storage should be under data analysis. Ongoing management is in the Generic knowledge above. I haven't checked the other sections after that.)
 <details><summary>Planning resource needs - Aidan rev. Paola</summary>
  
   * [Compute and Storage Resources](Resources.md)
