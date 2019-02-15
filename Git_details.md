@@ -17,5 +17,5 @@
 [Link to training](???)
 
 ### Git from GUI
-[Git from GUI training](???)
+[Link to training](???)
 

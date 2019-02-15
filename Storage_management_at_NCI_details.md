@@ -12,6 +12,8 @@
     * short_files_report -P/-G
     * gdataX_files_report -P/-G
 
+[Link to training](???)
+
 ### Skill set #2
  * ncdu
  * nccompress

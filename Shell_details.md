@@ -11,10 +11,11 @@
     * mkdir
     * cp
     * mv
-    * (Note to team: Should we talk about text editors? Here or elsewhere?)
+
+[Link to training](???)
 
 ### Skill set #2: Getting efficient with the shell
- * Basic regular expressions  (Note to team: keep or not? mainly * ?)
+ * Basic regular expressions 
  * Pipes and filters
     * Pipe commands together
     * I/O redirection
@@ -22,6 +23,8 @@
     * define local and environment variables
     * modify variables using pattern syntaxes
     * integer variables and basic maths
+
+[Link to training](???)
 
 ### Skill set #3: Scripting
  * Loops

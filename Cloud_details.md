@@ -5,7 +5,7 @@
  * How to access your files.
  * How to use Python and Jupyter Notebooks on the VDI
 
-[Link to tutorial](???)
+[Link to training](???)
 
 ### Skill set #2: Nectar cloud
  * What it is.
@@ -13,4 +13,4 @@
  * Who can access
  * How to access your files. 
 
-[Link to tutorial](???)
+[Link to training](???)
