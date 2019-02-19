@@ -4,42 +4,38 @@ For example in Project there's some really minor steps while the first point of 
 I've outlined below a few suggestions also indicating what I think are prerequisites #pq or there might be an overlap -> 
 It's just an example to explain what I think might be a more even granularity rather then a comment on content. 
 
-### Project
+### Setup
 
- * Determining appropriate CLEX project code,
- * Contact project coordinator (CI or delegate)
- * Request to join a project through mancini  #pq
- * Determining CI of project, #pq? (I'm thinking either via mancini, so potentially redundant or via wiki since mancini might not have enough "scientific" info)
-
-### Resource request
-
+ * Pre-requisite: [Using projects at NCI](Introduction_to_NCI.md)
+ * Pre-requisite: [Filesystems at NCI](Introduction_to_NCI.md)
+ * Pre-requisire: [Project accounting at NCI](Introduction_to_NCI.md)
+ * Find and join the appropriate CLEx project
+ * Know the resource management processes for this project
  * Determining resources required, e.g. running model, analysing data
     - Compute resources (KSU)
     - Storage resources (GB): short term (`/short`), medium term (`/gdata`) and archive (`mdss`)
- * Determining project allocation (`nci_account`) #pq
- * Contact project coordinator with resource request # (isn't a bit redudant? they should have started a dialogue already)
+ * Contact project coordinator with resource request as required # (isn't a bit redudant? they should have started a dialogue already)
 
 ### Monitor resource use
 
- * Check resource use NCI tools:
-           ** nci_account, 
-           ** <fsystem>_files_report
-           ** lquota
- * Extra tools for Clex projects:
-           ** nci_monitor
- * Useful bash commands ( `du`, `ncdu`, `find`) -> bash basics?
+ * Review of the tools available to you
+   * NCI tools
+   * CLEx tools
+   * bash commands
 
 ### Managing storage
- * NCI filesystems and their correct use #pq?
- * managing file ownership and permissions:
-    * chmod, chgrp -> bash basics
-    * acls
- *  compress: 
-    ** nccompress
-    ** cdo and nco -> ??
-    ** gzip, zip, bzip etc. -> bash basics?
- *  delete ? maybe we can skip this? (`find`, `rm`) -> bash_basics
- *  transfer:
-    ** across filesystems -> bash basics? (I'm thinking of difference between cp and mv and what happens to permisisons etc.)
-    ** from/to remote server (rsync, scp, sftp) -> NCI user guide 
- *  archive data ( `tar`, `mdss`, `mdssdiff`) -> NCI userguide (for mdss)
+
+ * Pre-requisite: [Filesystems at NCI](Introduction_to_NCI.md)
+ * More on correct use of NCI filesystems
+ * Managing file ownership and permissions
+ * File compression 
+ * Prepare data for safe keeping over medium term or longer:
+   * what can be deleted
+   * documentation
+   * tarring
+ * Transfer the data:
+   * across filesystems
+   * from/to remote server
+   * from/to tape
+
+[Details of the trainings](Resources_details.md)
