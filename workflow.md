@@ -59,12 +59,12 @@ For NCI Users
 
 <details><summary>Code development and management - Danny rev. Claire</summary>
 
+  * Pre-requisite: Version control
+      * [SVN](SVN.md)
+      * [Git](Git.md)
   * [Fortran development](Fortran.md)
   * [Python development](Python.md)
   * Debugging (See specific language for details)
-  * Version control
-    * [SVN](SVN.md)
-    * [Git](Git.md)
   * [Code publishing](Code-publishing.md)
 </details>
 
