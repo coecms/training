@@ -15,6 +15,7 @@ For NCI Users
   * [SSH](SSH.md)
   * [Git Version control](Git.md)
   * [Cloud](Cloud.md)
+  * [Data formats](FileFormats.md)
 </details>
 
 (Note to the team: I think I'd like to delete this section below. Planning for CPU and storage should be in running the model. Planning for storage should be under data analysis. Ongoing management is in the Generic knowledge above. I haven't checked the other sections after that.)
@@ -51,10 +52,9 @@ For NCI Users
 
 <details><summary>Analysing model results (or any data) - Scott rev. Danny</summary>
 
-  * VDI
-  * The job queue
-  * Xarray
-  * Plotting
+  * [Analysis Basics](AnalysisBasics.md)
+  * [Plotting](Plotting.md)
+  * [Big datasets](BigDatasets.md)
 </details>
 
 <details><summary>Code development and management - Danny rev. Claire</summary>
