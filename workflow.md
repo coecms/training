@@ -15,6 +15,7 @@ For NCI Users
   * [Storage management at NCI](Storage_management_at_NCI.md)
   * [Git Version control](Git.md)
   * [Cloud](Cloud.md)
+  * [Data formats](FileFormats.md)
 </details>
 
 <details><summary>Planning resource needs - Aidan rev. Paola</summary>
@@ -49,10 +50,9 @@ For NCI Users
 
 <details><summary>Analysing model results (or any data) - Scott rev. Danny</summary>
 
-  * VDI
-  * The job queue
-  * Xarray
-  * Plotting
+  * [Analysis Basics](AnalysisBasics.md)
+  * [Plotting](Plotting.md)
+  * [Big datasets](BigDatasets.md)
 </details>
 
 <details><summary>Code development and management - Danny rev. Claire</summary>
