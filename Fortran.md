@@ -2,19 +2,28 @@ Fortran Development
 -------------------
 
 ### Skill Set #1: Beginner Usage
-* An Introduction to Fortran
+* Syntax and program format
+* Compiling and running a program
+* Using libraries
 
 ### Skill Set #2: Advanced Usage
-* Advanced Fortran Programming
-* Optimisation
-* Parallelisation
+* Advanced array usage
+* Using MODULES and INTERFACES
+* Derived types
+* Dynamic memory (POINTERS, ALLOCATABLE)
+* Other advanced statements (CASE, INTENT, OPTIONAL)
 
-### Skill Set #3: Debugging
+### Skill Set #3: Optimisation
+
+### Skill Set #4: Parallelisation
+  * OpenMP
+  * MPI
+
+### Skill Set #5: Debugging
 * Debugging
   * Skills and Tools
-    * Bug symptoms and terminology
-    * Using the stack trace
-    * Using run-time checks
   * Debuggers
     * Allinea-DDT
     * Totalview
+
+[Details of the trainings](Fortran_details.md)
