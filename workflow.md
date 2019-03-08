@@ -30,16 +30,15 @@ For NCI Users
 </details>
 
 <details><summary>Running a model - Holger rev. Scott</summary>
-(Note: Claire said before that this should also contain Planning for CPU and storage needs)
 
-  * Preparation
-    * Planning the Resource needs
-    * Configuring the model
-      * [UM](Configuring_UM.md)
-      * [payu / MOM](payu.md)
-      * ACCESS
+  * Pre-requisites: [Introduction to NCI](Introduction_to_NCI.md)
+  * Pre-requisites: [Shell](Shell.md)
+  * Pre-requisites: [SSH](SSH.md)
+  * Configuring the model
+    * [UM](Configuring_UM.md)
+    * [payu / MOM](payu.md)
+    * ACCESS
   * Running the model
-    * The Job queue
     * UM
     * MOM
     * ACCESS
