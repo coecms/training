@@ -1,9 +1,10 @@
 ### Data resource at NCI
-  * data projects
-  * NCI data catalogue and geonetwork
-  * NCI thredds repository
-  * Climate community confluence pages
-  * CLEx data collection and CMS wiki
-  * Finding CMIP and other ESGF data with CleF
-  * Finding CLEx collection with CleF 
+
+  * Pre-requisite: [Projects at NCI](Introduction_to_NCI.md)
+  * Finding published datasets
+  * Finding replicated datasets
+  * Using CleF
+
+[Details of the training](NCI_data_details.md)
+
   
