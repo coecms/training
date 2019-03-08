@@ -7,3 +7,6 @@ There are two main reasons to publish your data. The first is to provide a new d
  * The journals policies about Open Access.
  * What data you should publish.
  * The data repositories available to you and their requirements.
+
+[Link to resources](???)
+[Link to training](???)

@@ -68,9 +68,9 @@ For NCI Users
 
 <details><summary>Publishing data - Claire rev. Aidan</summary>
 
-  * [Open Access Requirements](Open_Access.md)
-  * [Publication process](Publication_process.md)
-  * [Complete a Data Management plan](DMP.md)
+  * [Open Access Requirements](Open_Access_details.md)
+  * [Publication process](Publication_process_details.md)
+  * [Complete a Data Management plan](DMP_details.md)
   * [Format your data](Data_formatting.md)
 </details>
 
